@@ -7,6 +7,8 @@ Current focus is network architecture, cloud infrastructure, system administrati
 Often do I go beyond my coursework and push the limits of my knowledge by working on personal projects and doing work for local businesses. 
 Pivoting into tech has been the best thing to satisfy my hunger for new information lol.
 
+I use VirtualBox, AWS, and I'm a Linux fan boy; also use python and javascript.
+
 **Fun Facts:**
   - Favorite game is Helldivers 2
   - Cold brews w/ sugar free vanilla is my go to
